@@ -1,6 +1,6 @@
-![Деловая модель](images\delovaya_model.png)
+![Деловая модель](images/delovaya_model.png)
 
-![ER схема](images\ER_scheme.png)
+![ER схема](images/ER_scheme.png)
 
 Схемы отношений:
 
